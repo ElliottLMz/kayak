@@ -4,7 +4,6 @@
 
 - Fix const reassign bug
 
-=======
 ## [0.1.3](https://github.com/elliottlmz/kayak/releases/tags/v0.1.3) (2 November 2020)
 
 - Fixed a bug which would break if people didn't have a dependency root specified
