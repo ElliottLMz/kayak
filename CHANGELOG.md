@@ -1,6 +1,6 @@
 # Kayak Changelog
 
-## [0.1.3](https://github.com/elliottlmz/kayak/releases/tag/v0.1.3) (21 January 2021)
+## [0.1.4](https://github.com/elliottlmz/kayak/releases/tag/v0.1.4) (21 January 2021)
 
 - Fix const reassign bug
 
