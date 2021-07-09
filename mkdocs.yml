@@ -1,16 +1,16 @@
 site_name: Kayak Documentation
-site_url: https://emozley.uk/kayak/
-repo_name: ElliottLMz/kayak
-repo_url: https://github.com/ElliottLMz/kayak
+site_url: https://emozley.com/kayak/
+repo_name: emozley/kayak
+repo_url: https://github.com/emozley/kayak
 
-copyright: Copyright &copy; 2021 Elliott Mozley
+copyright: Copyright &copy; 2021 E. L. Mozley
 
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/elliottlmz
+      link: https://github.com/emozley
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/elliott_lmz
+      link: https://twitter.com/imautonor
 
 theme:
   name: material
